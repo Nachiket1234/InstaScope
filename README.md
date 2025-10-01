@@ -2,7 +2,10 @@
 
 A comprehensive full-stack web application that showcases Instagram influencer data and insights in a clean, user-friendly interface. Built as a demonstration of modern web development skills including React frontend, Supabase backend, and data visualization capabilities.
 
-![Profile Overview](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop)
+Profile Overview
+
+<img width="954" height="1041" alt="image" src="https://github.com/user-attachments/assets/791bad59-e835-4208-bc69-1053635e6cc8" />
+
 
 ## 🌟 Features
 
@@ -186,22 +189,3 @@ The application includes comprehensive mock data for development and testing:
 - Test on multiple screen sizes
 - Document new components and APIs
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Unsplash** for high-quality stock photography
-- **ShadCN/UI** for the component library
-- **Recharts** for data visualization components
-- **Supabase** for backend infrastructure
-- **Tailwind CSS** for utility-first styling
-
-## 📞 Support
-
-For support, email your-email@example.com or open an issue on GitHub.
-
----
-
-**Built with ❤️ for the Full Stack Developer Assignment**
